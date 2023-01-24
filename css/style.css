@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+ box-sizing:border-box;
+}
+
+.card {
+  background-color:brown;
+  height:600px;
+  width:350px;
+}
+
+.top-section {
+  background-color:blue;
+  height:350px;
+  width:
+}
+
+.bottom-section {
+  background-color:purple;
+}
